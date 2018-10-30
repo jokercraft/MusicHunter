@@ -1,4 +1,7 @@
 # MusicHunter
+
+![alt text](https://github.com/jokercraft/MusicHunter/blob/master/logo.png "Music Hunter")
+
 Youtube MP3 Downloader - Developed with Python3 / Flask Framework
 
 # INSTALLATION
